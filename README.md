@@ -1,1 +1,1 @@
-this is my fist reposotory
+this is my first readme
